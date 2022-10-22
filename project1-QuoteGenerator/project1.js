@@ -40,7 +40,7 @@ const quotes = [
     },
 ];
 
-//empty array
+//empty array to host the message
 secondArray = []
 //apply eventL
 btn.addEventListener('click', function(){
